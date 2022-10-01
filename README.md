@@ -3,8 +3,7 @@ Cleaning up your pandas dataframe headers can be a necessary step to make your d
 
 
 ## Video Tutorial
-..will follow soon!
-[![YouTube Video](https://img.youtube.com/vi/XXX/0.jpg)](https://youtu.be/XXX)
+[![YouTube Video](https://img.youtube.com/vi/ny2yLm1SY1E/0.jpg)](https://youtu.be/ny2yLm1SY1E)
 
 
 ## About Me
